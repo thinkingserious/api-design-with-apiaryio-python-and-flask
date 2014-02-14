@@ -3,6 +3,9 @@
 # C extensions
 *.so
 
+#Flask
+flask
+
 # Packages
 *.egg
 *.egg-info
