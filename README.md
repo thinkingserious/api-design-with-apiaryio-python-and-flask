@@ -1,6 +1,6 @@
 This code is not production ready. It is meant to help you rapidly create an API prototype. You can find interactive APIary.io documentation [here](http://docs.todo8.apiary.io). The Blueprint used to create this documenation can be found in docs-blueprint.md. Note that you will want to look at the raw document.
 
-There is a companion blog post, yet to published, that walks through the entire process to build this app from scratch. When it's live, I'll post the link here.
+There is a [companion blog post](http://sendgrid.com/blog/quickly-prototype-apis-apiary/) at SendGrid's blog that will be available Wednesday (2/19/14) evening.
 
 ## Setup
 
