@@ -113,7 +113,7 @@ Get all of the Folders.
                         "meta": "NULL"
                     },
                     {
-                        "id": 1,
+                        "id": 2,
                         "name": "Diet",
                         "description": "A collection of projects related to Diet",
                         "parent": 1,
